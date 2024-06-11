@@ -2,6 +2,22 @@
 
 This repository contains a Jupyter notebook demonstrating the usage of Graph Neural Networks (GNNs) and Graph Attention Networks (GATs) using the PyTorch Geometric library (`pyg`). The notebook covers various functionalities of the `pyg` library, including data handling, transformations, building, training, and evaluating GNN models, and visualizing the network and metrics.
 
+## Table of Contents
+
+- [Repository Contents](#repository-contents)
+- [Installation](#installation)
+- [Notebook Overview](#notebook-overview)
+- [Tutorials](#tutorials)
+  - [Understanding Graph Neural Networks (GNNs) and Graph Convolutional Networks (GCNs)](#understanding-graph-neural-networks-gnns-and-graph-convolutional-networks-gcns)
+    - [What is a Graph?](#what-is-a-graph)
+    - [Intuition Behind GCNs](#intuition-behind-gcns)
+  - [Understanding Graph Attention Networks (GATs)](#understanding-graph-attention-networks-gats)
+    - [Intuition Behind GATs](#intuition-behind-gats)
+- [Usage](#usage)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Contributing](#contributing)
+
 ## Repository Contents
 
 - `GNNs_GATs.ipynb`: The main Jupyter notebook demonstrating the functionalities and implementation of GNNs and GATs.
