@@ -111,7 +111,3 @@ This project uses the following libraries:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue if you have any suggestions or improvements.
-
-## Contact
-
-For any questions or inquiries, please contact [galenwilkerson](https://github.com/galenwilkerson).
