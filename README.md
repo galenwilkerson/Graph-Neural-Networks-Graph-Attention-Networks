@@ -1,5 +1,8 @@
 # Graph Neural Networks and Graph Attention Networks
 
+<img src="./gat.png" width="300" height="300">
+
+
 This repository contains a Jupyter notebook demonstrating the usage of Graph Neural Networks (GNNs) and Graph Attention Networks (GATs) using the PyTorch Geometric library (`pyg`). The notebook covers various functionalities of the `pyg` library, including data handling, transformations, building, training, and evaluating GNN models, and visualizing the network and metrics.
 
 ## Table of Contents
